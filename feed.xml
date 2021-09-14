@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Musings</title>
+    <link href="https://blog.neildesouza.com/feed.xml" rel="self" />
+    <link href="https://blog.neildesouza.com" />
+    <updated>2020-06-11T21:24:20+09:30</updated>
+    <author>
+        <name>Neil De Souza</name>
+    </author>
+    <id>https://blog.neildesouza.com</id>
+
+    <entry>
+        <title>Ad Fatigue in Digital Marketing</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/imho-ad-fatigue-also-applies-to-digital-marketing.html"/>
+        <id>https://blog.neildesouza.com/imho-ad-fatigue-also-applies-to-digital-marketing.html</id>
+            <category term="Digital and Social"/>
+
+        <updated>2020-06-11T21:23:13+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/73/exhausted.jpg" alt="" />
+                    <p>If you've ported your traditional 'brand guidelines' to the digital world, you should be reading this before your start putting your feet up.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/73/exhausted.jpg" alt="" />
+                <p>If you've ported your traditional 'brand guidelines' to the digital world, you should be reading this before your start putting your feet up.</p>
+
+<p>Digital and Social Media advertising has a problem. Too many advertisers looking to market to the same audience. Easy to get in on the action. Low barrier to entry.</p>
+<p>Recently, I was in discussions with a colleague on how a 2-month daily post boost on Facebook didn't make any sense. The promotion was structured to post every day, with one of five branding visuals, then boost the post for $20-$30 to target an audience of 15k-30k fans every day. The boost would exhaust in 24 hours, and the next post and boost would kick in.</p>
+<p>Eventually we started the Facebook promotion. The first week was great. Impressions were high - boosting works! But in week 2, I noticed some problems. Interactions started dropping. Impressions were still high though. History has taught us that boost = reach = visibility. So what was wrong? Did we need to increase the $ value of the boost, given that our prospective audience was still the same.</p>
+<p>For weeks prior to kicking off the campaign, I had been looking at the same ads coming in from Creative. The design was applied to web banners, mobile banners, print ads, Facebook, twitter, Instagram, everywhere. It looked so consistent and to be honest, great! Brand gurus would be proud.</p>
+<p>But soon the novelty factor wore off. Every piece of art seemed like a blur. I began to miss the message.</p>
+<p>By week 2 of the promotion, I began to think it would be the same for our Facebook fans as well. Ad fatigue? But how? We had a total audience of a million fans available in the pool. 15–30k per day would take us a long way before Facebook did a rinse-and-repeat. Right?</p>
+<p>One late night, I decided to find out how Facebook actually reaches your audience.</p>
+<p>According to some sources, Facebook's algorithm does not show the same ad in an ad set to the same person more that 4 times per day. At best, the average per day would max at 1.5x to 2.0x. This seems to be true.</p>
+<p>Facebook's algorithm also determines the best audience who would interact with that ad/ad-set and shows the ad to that bunch from the total possible audience. It uses factors such as how frequently you are signed in, when, your preferences, what you like to view regularly, etc. - you know, that big data stuff you've been hearing about.</p>
+<p>But that's per ad-set.</p>
+<p>I tried to track our promotion using the hidden 'Frequency' column in Facebook's Ad Manager tracking ad delivery stats.</p>
+<p>Frequency = The average number of times each person saw your ad.<br>Even so, all seemed fine - 1–1.2x frequency. Which translated to maybe 1–3 ad impressions or less per person per day. All kosher, right?</p>
+<p>However in our case, we're not doing ad sets, instead we were boosting separate daily posts with the same/similar visuals every day. For all purposes, Facebook considered each boost as a separate ad set and could possibly be boosting to the same audience that it has predetermined as the best audience.</p>
+<p>Let me put it in an easier way.</p>
+<p><em>You're at a cocktail party.</em><br><em>A waiter comes to you with some canapés. You take one.</em><br><em>After 10 minutes another waiter comes with the same canapés. OK. You take another.</em><br><em>After another 10 minutes another waiter comes with the same canapés. You still take one. Coz you're hungry.</em><br><em>Now you're full.</em><br><em>After 10 minutes another waiter comes with the same canapés. You say no, thank you.</em><br><em>After 10 minutes another waiter comes with the same canapés. No.</em><br><em>After 10 minutes another waiter comes with the same canapés. Hell no.</em><br><em>After 10 minutes another waiter comes with the same canapés. No way, get lost.</em><br><em>Then you start hiding from waiters.</em></p>
+<p>This is what was happening to our campaign. Ad Fatigue.</p>
+<p>By the way, did you ever wonder why Facebook started allowing multiple visuals per ad set? This single decision must be netting them some serious cash.</p>
+<p>Over the years, Social Media vendors on the internet have recommended consistency in imaging and visuals. It's good for the brand they say, taking the cue from traditional marketers.</p>
+<p>I'm beginning to think otherwise.</p>
+<p>While in traditional marketing, a brand could get away with using the same 'brand guidelines' and 'brand look' across traditional platforms like newspapers, magazines and tabloids, the actual reach of these mediums did not surpass what we are seeing on digital today.</p>
+<p>Plus of course, there' always that <em>pesky algorithm</em> that cherry picks an audience from the millions to view your ad - just coz they like clicking on things. In a way, they're cheating you of your money. But it's so minuscule that you don't feel the pinch.</p>
+<p>So how can you work this to your advantage?</p>
+<p>Simple. Instead of using the same guidelines, break your brand look and try something different. You'll be surprised at the results.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cool and fun live streaming ideas</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/cool-and-fun-live-streaming-ideas.html"/>
+        <id>https://blog.neildesouza.com/cool-and-fun-live-streaming-ideas.html</id>
+            <category term="Digital and Social"/>
+
+        <updated>2020-06-10T22:08:47+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/72/LiveStreaming.jpg" alt="" />
+                    <p>Guilt free video streaming is now just a tap away with <a href="https://www.periscope.tv/" target="_blank" rel="noopener noreferrer">Periscope</a> and <a href="https://meerkatapp.co/" target="_blank" rel="noopener noreferrer">Meerkat</a> - two of the formidable opponents in the live streaming arena.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/72/LiveStreaming.jpg" alt="" />
+                <p>Guilt free video streaming is now just a tap away with <a href="https://www.periscope.tv/" target="_blank" rel="noopener noreferrer">Periscope</a> and <a href="https://meerkatapp.co/" target="_blank" rel="noopener noreferrer">Meerkat</a> - two of the formidable opponents in the live streaming arena.</p>
+
+<p>Video is one of the hottest trends on social media this year. <a href="http://www.youtube.com" target="_blank" rel="noopener noreferrer">Youtube</a> and <a href="http://www.vimeo.com" target="_blank" rel="noopener noreferrer">Vimeo</a> make it their business. <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer">Facebook</a> has now made it even easier to post, view and interact with video. Even <a href="https://vine.co/" target="_blank" rel="noopener noreferrer">Vine</a> and <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a> have a few-second clips that are shared around.</p>
+<p>There’s tons of video available today on the world wide web. Short and long clips, funny and educational, even some boring ones. Somehow home made video feels more genuine and palatable than the commercial counterparts. And we love to laugh at, learn and enjoy creations from others who are just like us - ordinary folks.</p>
+<p>With smartphones, it’s now easier to capture content on the go. That’s a big plus. But who ready takes the time to upload video content to social media. By the time you really think about uploading your video, you would have thought ten times about what your posting, evaluated it with you friends and finally decided that its not worth the effort.</p>
+<p>The millennials of today think different. Some already have more friends on their feed and every one of them is craving information from their peers. That’s where this thing really kicks off, gathers steam and goes viral.</p>
+<p>Guilt free video streaming is now just a tap away with <a href="https://www.periscope.tv/" target="_blank" rel="noopener noreferrer">Periscope</a> and <a href="https://meerkatapp.co/" target="_blank" rel="noopener noreferrer">Meerkat</a> - two of the formidable opponents in the live streaming arena. There a dearth of comparisons from numerous sources on both of them and that’s not what this article is about.</p>
+<p>There are already live streaming kings and queens… with tens of thousands of followers. But everyone needs ideas to get started. Rather than streaming pizza in your microwave or your overfed pet ferret, here are some cool live streaming ideas.</p>
+<h4>Local Culture</h4>
+<p>Not everyone can travel around the world to experience local culture. Most watch The Food Channel or experience it in the movies. What you see regularly in your own town could simply be entertaining to someone else around the world. Start by capturing a street performer or a festive event like a carnival.</p>
+<h4>Your Local Community Market</h4>
+<p>Weekly, monthly or seasonal markets are a great place to enjoy fresh offerings from your local community. I remember visiting a local market in England and loved the food, the cheese and the local fresh fruits and vegetables on offer. I also remember the auctions on meat, sausage and wine.</p>
+<h4>Food How to’s?</h4>
+<p>Do you know how to eat <em>Pani Puri</em>? Its an experience every Indian knows, but a few foreigners try. And this despite the fact that its popular around the world. There's even Vodka infused Pani Puri. Use live streaming to show how to eat food items unique to your country. Better still capture how it’s being prepared, the ingredients and the love.</p>
+<h4>Local Food Joints</h4>
+<p>On the food theme, television is cluttered with food channels. So why not you? If you’re a foodie, like I am, you’d love to try out new street food and share them with your fans worldwide. In the bargain you may just help yourself to some good food.</p>
+<h4>Live Events</h4>
+<p>This may be illegal depending on the type of event but Live Events are a great opportunity to build your fanbase. I’m not talking about streaming a live event while you watch it on your TV, but an actual event in the middle of the fans around you experiencing the highs and lows. A football match perhaps?</p>
+<p>Video is just another app you use in your social life today. But its important to get your creativity flowing. After all there are no boundaries to what you can do with Periscope or Meerkat.</p>
+<p>Explore the world, go places, and share your community with your online community.</p>
+<p>What are you going to live stream today?</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello #Pablo</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/hello-pablo.html"/>
+        <id>https://blog.neildesouza.com/hello-pablo.html</id>
+            <category term="Digital and Social"/>
+
+        <updated>2020-06-10T23:13:03+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/71/pablo-2.jpg" alt="" />
+                    <p><a href="https://bufferapp.com" target="_blank" rel="noopener noreferrer">Buffer</a> officially launches <a href="https://bufferapp.com/pablo" target="_blank" rel="noopener noreferrer">Pablo</a>, a quick and easy service to design engaging images for your social media posts. In under 30 seconds!</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/71/pablo-2.jpg" alt="" />
+                <p><a href="https://bufferapp.com" target="_blank" rel="noopener noreferrer">Buffer</a> officially launches <a href="https://bufferapp.com/pablo" target="_blank" rel="noopener noreferrer">Pablo</a>, a quick and easy service to design engaging images for your social media posts. In under 30 seconds!</p>
+
+<p>We've seen a surge in social posts using images with text on them (see the featured image on this post). They are easy to setup and are supposed to boost engagement by making the content more enticing and clickable.</p>
+<p>Pablo is <strong>free</strong> and easy to use. Type out a headline, and if you need, add a secondary headline. Choose from 10 popular Google Fonts to style your text, select a size, formatting and choose a colour. Next, use any of the stock images provided or upload your own images. You can use background options to blur the image or to change it to black &amp; white for effect.</p>
+<p>You can also add an image as an icon, though a PNG with transparency looks better here.</p>
+<p>Drag and move things around. Resize the icon using a handy slider.</p>
+<p>Lastly, the images can be downloaded or sent to your Facebook, Twitter or a Buffer account.</p>
+<p>All this from one screen! Impressive, huh?</p>
+<p>Pablo may seem to look light on features, but remember that its the quickest way to get a cover image for your post. If you need more control, that's what Photoshop is for :)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Do you use Twitter Analytics?</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/do-you-use-twitter-analytics.html"/>
+        <id>https://blog.neildesouza.com/do-you-use-twitter-analytics.html</id>
+            <category term="Digital and Social"/>
+
+        <updated>2020-06-10T23:13:07+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/70/twitter.analytics.jpg" alt="" />
+                    <div>While there are scores of other Twitter benchmarking tools, what Twitter offers is the most organic. Plus it's completely free.</div>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/70/twitter.analytics.jpg" alt="" />
+                <div>While there are scores of other Twitter benchmarking tools, what Twitter offers is the most organic. Plus it's completely free.</div>
+
+<div>Just like Facebook, LinkedIn and Pinterest, Twitter also provides a built-in analytics package for your account. Initially established as a way marketers could use to track the performance of their tweets, the analytics package is accessible to anyone with a twitter account. Funnily though, Twitter Analytics is not widely known.</div>
+<h3>How do I get access to Twitter Analytics?</h3>
+<div>Twitter Analytics can be access using the URL - <a href="https://analytics.twitter.com/" target="_blank" rel="noopener noreferrer" shape="rect">https://analytics.twitter.com/</a> - you'll need to log in using your Twitter account, and you'll then be able to see the stats for that account.</div>
+<div>Officially, the site indicates that you can start using Twitter Analytics in two ways:</div>
+<ol>
+<li>Start Using Twitter Cards, and</li>
+<li>Become an advertiser, which is the obvious one.</li>
+</ol>
+<div>
+<h3>Some of the useful functions of Twitter Analytics</h3>
+<div>You can use Twitter Analytics to improve your performance on Twitter. The information here is not available in the Twitter client, so it helps clear a few doubts.</div>
+<div> </div>
+<div>Some of the questions you'll be able to answer are:</div>
+<div>
+<ul>
+<li>How many times was my tweet shown? (Will help identify if you're pushing content at the wrong time)</li>
+<li>How many people actually interacted with my tweet?</li>
+<li>What's the engagement rate for a particular tweet?</li>
+<li>The Type of Engagement received by your tweets</li>
+<li>What interests your followers?</li>
+<li>Top countries, states and cities where they come from</li>
+<li>Their Gender</li>
+<li>Top 9 accounts your followers follow, ranked by percentage.</li>
+<li>Engagement Rate over the selected time period</li>
+<li>Link Clicks over the selected time period</li>
+<li>Retweets over the selected time period</li>
+<li>Favorites over the selected time period</li>
+<li>Replies over the selected time period</li>
+</ul>
+</div>
+<h4>Tweet related information</h4>
+<p>Twitter gathers stats for every tweet that you sent out. You can drill down up to a day-level to analyse the performance of the tweets for that day.</p>
+<p>At a snapshot level, Twitter will tell you the impressions, engagement and the rate of engagement.</p>
+<ul>
+<li><strong>Impressions: </strong>Number of times users saw your tweet on Twitter</li>
+<li><strong>Engagements: </strong>Total number of times a user has interacted with a Tweet. This includes all clicks anywhere on the Tweet (including hashtags, links, avatar, username, and Tweet expansion), retweets, replies, follows, and favorites.</li>
+<li><strong>Engagement Rate: </strong>The number of engagements (clicks, retweets, replies, follows and favorites) divided by the total number of impressions.</li>
+</ul>
+<p>If you need deeper analysis on the Tweet, you can click to view the Tweet details.</p>
+<p>In addition to a 48-hour impressions chart, this modal will also give you information on other key metrics.</p>
+<ul>
+<li><strong>Impressions:</strong> Number of times users saw the Tweet on Twitter</li>
+<li><strong>Embedded media clicks:</strong> Clicks to view a photo or video in the Tweet</li>
+<li><strong>Detail expands:</strong> Number of times users clicked on the Tweet to view more details</li>
+<li><strong>Link clicks:</strong> Clicks on a URL or Card in the Tweet</li>
+<li><strong>User profile clicks:</strong> Clicks on the name, @handle, or profile photo of the Tweet author</li>
+<li><strong>Retweets:</strong> Number of times users retweeted the Tweet to their followers</li>
+<li><strong>Hashtag clicks:</strong> Clicks on hashtag(s) in the Tweet</li>
+<li><strong>Replies:</strong> Number of replies to the Tweet</li>
+<li><strong>Favorites:</strong> Number of times users favorited the Tweet</li>
+</ul>
+<h4>Follower related information</h4>
+<p>Have you ever wondered who your followers are? Where do they come from? What do they like? Why they like your brand?</p>
+<p>While users don't feed this information into their profiles, Twitter learns their preferences and accordingly establishes a user profile for each and every account. For example, when creating your twitter account, there was no place to select your gender. So how does Twitter figure out that you're a male or a female?</p>
+<p>The Follower Analytics analyse the pattern of the user - what they post, what they read and create a profile identifying their location (country, state, city), Gender (male, female) and their top interests (broad classification) - Big Data at work!</p>
+<figure class="alignnone wp-image-1192 size-full">In addition, Twitter knows who else your followers follow. This information will help you understand key influencers and competition and by tracking the changing interests, you will know what areas you should focus on to get the best engagement.<br><img loading="lazy"  src="https://blog.neildesouza.com/media/posts/70/analytics-followers.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.neildesouza.com/media/posts/70/responsive/analytics-followers-xs.png 300w ,https://blog.neildesouza.com/media/posts/70/responsive/analytics-followers-sm.png 480w ,https://blog.neildesouza.com/media/posts/70/responsive/analytics-followers-md.png 768w"  alt="" width="933" height="608"></figure>
+<h4>Top Level Statistics<strong><br></strong></h4>
+<div>Lastly, Twitter provides you with some top level stats for your brand. These are time specific and based on your chosen time period, useful in finding out low (or high) periods of activity for your brand.</div>
+<div> </div>
+<div>You also get access to the Twitter Cards dashboard and some tools. More on that in a separate post.</div>
+<div>
+<div> </div>
+<h3>Conclusion</h3>
+<div>While the information here is great to start with, some advanced users would prefer to dig in deeper. Twitter has provided all these analytics in a downloadable format. You can export the information into a spreadsheet (csv) and analyse what you need from it.</div>
+<div> </div>
+<div>So, if you haven’t yet, go try out your Twitter analytics dashboard and let me know what you find. Good luck.</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A 6-min recap of the hits of 2014</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/a-6-min-recap-of-the-hits-of-2014.html"/>
+        <id>https://blog.neildesouza.com/a-6-min-recap-of-the-hits-of-2014.html</id>
+            <category term="General"/>
+
+        <updated>2020-06-11T21:18:30+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/68/danthology.lr.jpg" alt="" />
+                    <p>Christina, Meghan, Jessie, Taylor, Katy, Nicki, Iggy, Ariana, Beyonce, Cristina, Jennifer, Lilly, Miley, Rita, Sia, Shakira, Idina, Usher, Tiesto, Jason</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/68/danthology.lr.jpg" alt="" />
+                <p>Christina, Meghan, Jessie, Taylor, Katy, Nicki, Iggy, Ariana, Beyonce, Cristina, Jennifer, Lilly, Miley, Rita, Sia, Shakira, Idina, Usher, Tiesto, Jason</p>
+
+<p>Pharrell, Michael, JT, John, Deadmau5, Chris, Guetta, 1D, Sam, Stevie, Zedd, Snoop, Calvin, Afrojack, Enrique…</p>
+<p>Yup, they’re all here! For your entertainment.</p>
+<div class="text_exposed_show">
+<p>Pop Danthology 2014.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/OOHYCZLmbyc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Website: Koooora Wa Bas</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/koooora-wa-bas.html"/>
+        <id>https://blog.neildesouza.com/koooora-wa-bas.html</id>
+            <category term="Work"/>
+
+        <updated>2020-06-10T23:13:12+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/69/kwb.jpg" alt="" />
+                    <p>With a team of journalists and reporters in Oman and abroad, Koooora Wa Bas is widely accepted as the definitive news source for all things football.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/69/kwb.jpg" alt="" />
+                <p>With a team of journalists and reporters in Oman and abroad, Koooora Wa Bas is widely accepted as the definitive news source for all things football.</p>
+
+<p>Koooora Wa Bas is Oman's first football weekly. Published on Wednesdays, the weekly embodies the sport that is so popular in Oman. With a team of journalists and reporters in Oman and abroad, it is widely accepted as the definitive news source for all things football. Their coverage of local, regional and international footballing events have won them accolades.</p>
+<p>KooooraWaBas.com is the second iteration of the magazine's website. This edition utilizes the Wordpress CMS system and using Arabic localization throughout the theme. It was designed in record time to coincide with the 2014 World Cup in Brazil.</p>
+<p>Koooora Wa Bas can be reached on <a href="http://www.twitter.com/koooorawabas" target="_blank" rel="noopener noreferrer">twitter</a> and <a href="http://www.facebook.com/koooorawabas" target="_blank" rel="noopener noreferrer">facebook</a>, as well as through the <a href="http://www.koooorawabas.com" target="_blank" rel="noopener noreferrer">website</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Get Superfast 4G in Oman</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/get-superfast-4g-in-oman.html"/>
+        <id>https://blog.neildesouza.com/get-superfast-4g-in-oman.html</id>
+            <category term="General"/>
+
+        <updated>2020-06-11T21:19:13+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/62/speedtest.jpg" alt="" />
+                    <p>Superfast 4G in Oman has just been activated for the iPhone users, and if you're one of those struggling, this post should help you get up and running.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/62/speedtest.jpg" alt="" />
+                <p>Superfast 4G in Oman has just been activated for the iPhone users, and if you're one of those struggling, this post should help you get up and running.</p>
+
+<p>While I'm currently using <a href="http://www.nawras.om" target="_blank" rel="noopener noreferrer">Nawras</a>, the guide is applicable to <a href="http://www.omantel.om" target="_blank" rel="noopener noreferrer">Omantel</a> as well.</p>
+<p>Before you start, backup your iPhone, either to iCloud, to your computer, or if you're paranoid like me, to both!</p>
+<p>You'll need to quickly check the following on your iPhone:</p>
+<h4>Is your iPhone compatible?</h4>
+<p>Firstly, 4G is only available on the iPhone 5 and 5S. It does not matter which version you have as the LTE band used in Oman is the most common. If you need to know, here's a useful guide to the <a href="http://en.wikipedia.org/wiki/List_of_LTE_networks" target="_blank" rel="noopener noreferrer">LTE bands used worldwide</a>. And here's the technical specs for the <a href="http://support.apple.com/kb/sp655" target="_blank" rel="noopener noreferrer">iPhone 5</a> and the <a href="https://www.apple.com/iphone-5s/specs/" target="_blank" rel="noopener noreferrer">iPhone 5S</a>. You can also find out what model your GSM iPhone is <a href="http://support.apple.com/kb/ht3939" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<h4>Update to the latest software update - iOS 7.1</h4>
+<p>To update your iPhone to the latest software update, go to <em>Settings &gt; General &gt; Software Update</em>. If you see a pending update, plug your iPhone in to charge and start the update. This may take a few minutes to an hour or more depending on how old your iPhone software is.</p>
+<p>Your phone will reboot and be ready for the next step.</p>
+<h4>Update carrier settings</h4>
+<p>To update carrier settings, you will need to go to<em> Settings &gt; General &gt; About</em>. In a few seconds you should have a popup indicating that carrier settings are available and can be applied. If this does not happen, check to see if it has already been applied before. Under <em>Settings &gt; General &gt; About</em> check the Carrier. It should say '<em>nawras 16.1</em>'.</p>
+<h4>Activate 4G</h4>
+<p>If required, reboot the iPhone. You should have 4G up and running. Check by going to <em>Settings &gt; Cellular</em>. The <em>Enable 4G</em> option should be visible and can be switched on.</p>
+<p>To activate 4G, from the phone, dial *141#, and follow the instructions to activate 4G. Corporate customers, may need company approval to get this done and will need to do this at their Nawras branch</p>
+<h4>Troubleshooting</h4>
+<p>If you iPhone still shows<em> 'Enable 3G'</em> there are a few things that you can do to:</p>
+<ol>
+<li>Your Internet plan may not support it. Nawras in particular, just recently switched their plan pricing structure. I had a plan that was in their 'old' pricing structure and I needed to update to the <a href="http://nawras.om/Personal/Connect/4G.aspx" target="_blank" rel="noopener noreferrer">newer plan structure</a> to access 4G. Once that is done, it usually takes till midnight to get the plan billing activated, after which 4G will automatically kick in.</li>
+<li>Your SIM card may be of an older generation. Again, Nawras recently updated some SIMs and if you have an old SIM type, you need to visit your Nawras store to replace it.</li>
+<li>Check your area. You may be in a location that does not get 4G reach at all. Check the bottom of <a href="http://nawras.om/Personal/Connect/4G.aspx" target="_blank" rel="noopener noreferrer">this page</a>.</li>
+<li>You may need to activate 4G manually. To do that from the phone, dial *141#, and follow the instructions to activate 4G.</li>
+</ol>
+<p>Good luck. Let us know what speeds you get in your area, with the handy app - <a href="http://www.speedtest.net/mobile/" target="_blank" rel="noopener noreferrer">Speedtest</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How to beat Flappy Bird</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/how-to-beat-flappy-bird.html"/>
+        <id>https://blog.neildesouza.com/how-to-beat-flappy-bird.html</id>
+            <category term="General"/>
+
+        <updated>2020-06-11T21:20:20+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/63/flappybird.jpg" alt="" />
+                    <p>At the end of January 2014, it was the most downloaded free game in the iOS App Store.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/63/flappybird.jpg" alt="" />
+                <p>At the end of January 2014, it was the most downloaded free game in the iOS App Store.</p>
+
+<p>During this period, its developer claimed that Flappy Bird was earning $50,000 a day from in-app advertisements as well as sales.</p>
+<div class="post__iframe"><iframe loading="lazy" width="630" height="354" src="//www.youtube.com/embed/gD-nzHy2DdU" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Easy Twitter Reply Tip</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/easy-twitter-reply-tip.html"/>
+        <id>https://blog.neildesouza.com/easy-twitter-reply-tip.html</id>
+            <category term="Digital and Social"/>
+
+        <updated>2020-06-10T23:14:11+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/66/twitter.jpg" alt="" />
+                    <p>Here's an easy Twitter reply tip for beginners. You’ve probably noticed you’re not seeing any tweets beginning with @username in your home stream.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/66/twitter.jpg" alt="" />
+                <p>Here's an easy Twitter reply tip for beginners. You’ve probably noticed you’re not seeing any tweets beginning with @username in your home stream.</p>
+
+<p>Someone recently asked me why some of my tweets begin with .@username instead of the standard @username on twitter. You’ve probably also noticed you’re not seeing any tweets beginning with @username in your home stream. This is a subtle change in Twitter behaviour.</p>
+<p>I’ll try to explain below.</p>
+<p>@username is used to mention someone in your tweet.</p>
+<blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck">
+<p><a href="https://twitter.com/search?q=%23HappyBirthday&amp;src=hash">#HappyBirthday</a> to <a href="https://twitter.com/ytabloid">@ytabloid</a> <a href="http://t.co/ead70BosNZ">pic.twitter.com/ead70BosNZ</a></p>
+<p>— Neil De Souza (@neilsys) <a href="https://twitter.com/neilsys/statuses/427482094059540480">January 26, 2014</a></p>
+</blockquote>
+<p>
+<script src="//platform.twitter.com/widgets.js" async="" type="text/javascript" charset="utf-8"></script>
+When used the following happens:</p>
+<ol>
+<li>The tweet appears on your home stream feed and of those following you</li>
+<li>The tweet appears on the home stream feed of @username</li>
+<li>The tweet appears in the mentions folder of @username</li>
+</ol>
+<p>However, if you’re replying (where the @username appears first) Twitter reacts differently to this and considers this a reply as opposed to a mention. Thus, Twitter assumes you’re writing directly to the person</p>
+<blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck">
+<p><a href="https://twitter.com/JobsTheFilm">@JobsTheFilm</a> It's out on August 16th, will you be watching? <a href="http://t.co/BilTisfAu4">http://t.co/BilTisfAu4</a></p>
+<p>— Neil De Souza (@neilsys) <a href="https://twitter.com/neilsys/statuses/365193044707901440">August 7, 2013</a></p>
+</blockquote>
+<p> </p>
+<ol>
+<li>The tweet appears on your home stream</li>
+<li>The tweet<strong> does not appear</strong> on the home streams of those following you</li>
+<li>The tweet appears on the home stream feed of @username</li>
+<li>The tweet appears in the mentions folder of @username</li>
+</ol>
+<p><em>The exception to this is if your follower also follows the account in the @username</em></p>
+<p>That sucks! What this means is that any replies made by you (where the @username appears first) are not seen by your followers at all.</p>
+<h4>But what if I want them to see my replies?</h4>
+<p>There are situations where you’d want a reply to be visible to your community of followers as well. If someone has asked you a question, and you want to reply with your comments, but would like to initiate your follower base as well in the conversation, you would have to retweet the original tweet and then reply to the tweet in context by adding the @username anywhere else but the beginning of the tweet.</p>
+<p>Or you could just add any character before the @username. In the case below, a period is used.</p>
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck">
+<p>.<a href="https://twitter.com/DamnedFacts">@DamnedFacts</a> My Dad always said (when we tried to answer the phone during dinner) "That device is for OUR convenience, not the world's."</p>
+<p>— Andy Ihnatko (@Ihnatko) <a href="https://twitter.com/Ihnatko/statuses/387240428291903488">October 7, 2013</a></p>
+</blockquote>
+<p> </p>
+<p>So if you tweet beginning with .@username instead of @username. This ensures that your follower base also sees the reply on their individual home stream. Nifty, huh?</p>
+<p>Why the period? Why not other characters? You can user other characters not reserved for any special function with twitter.</p>
+<p>But the period is the least intrusive, I think.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>My top 5 CodeCanyon Plugins</title>
+        <author>
+            <name>Neil De Souza</name>
+        </author>
+        <link href="https://blog.neildesouza.com/5-codecanyon-plugins-for-a-cool-wordpress-site.html"/>
+        <id>https://blog.neildesouza.com/5-codecanyon-plugins-for-a-cool-wordpress-site.html</id>
+            <category term="Digital and Social"/>
+
+        <updated>2020-06-11T21:24:20+09:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.neildesouza.com/media/posts/64/codecanyon.jpg" alt="" />
+                    <p>Having implemented and run over a dozen Wordpress sites in all configurations, I've come to access <a href="http://codecanyon.net/" target="_blank" rel="noopener noreferrer">CodeCanyon</a> as a repository of premium plugins.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.neildesouza.com/media/posts/64/codecanyon.jpg" alt="" />
+                <p>Having implemented and run over a dozen Wordpress sites in all configurations, I've come to access <a href="http://codecanyon.net/" target="_blank" rel="noopener noreferrer">CodeCanyon</a> as a repository of premium plugins.</p>
+
+<p>Here are my Top 5 CodeCanyon Plugins. </p>
+<p>Sometimes, free is just not good enough and with frequency of updates coming out of premium plugin developers, its easy to keep up with industry changes like Twitter OAuth implementation. Not saying that all that is free is not great. Some plugins like <a href="https://yoast.com/wordpress/plugins/seo/" target="_blank" rel="noopener noreferrer">Yoast's Wordpress SEO</a> just can't be beat.</p>
+<h5><a href="http://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431" target="_blank" rel="noopener noreferrer">Visual Composer</a></h5>
+<p>Visual Composer is a drag and drop page builder for your Wordpress site. You can generate multiple page layouts without any programming. It has over 40 different predefined elements that you can just drag and drop into place. It’s extendible with Premium addons and skins, has language packs and can be used with any theme.</p>
+<h5><a href="http://codecanyon.net/item/eventon-wordpress-event-calendar-plugin/1211017" target="_blank" rel="noopener noreferrer">EventON</a></h5>
+<p>EventON is a calendar plugin for Wordpress. Cleverly design, EventON integrated with your website adding features like images, maps, short codes and widgets. I’ve tried this and had it up and running within minutes. Adding events is a breeze and its no-fuss interface provides flexibility as well as simplicity. It’s extendible with multiple addons, mobile friendly and lightweight.</p>
+<h5><a href="http://codecanyon.net/item/mymail-email-newsletter-plugin-for-wordpress/3078294" target="_blank" rel="noopener noreferrer">MyMail</a></h5>
+<p>Ever tried sending newsletters? Composing them is the biggest headache. Now with MyMail, and some cool themes, you can have a fully functional and automated newsletter plugin built-in to your Wordpress site. This one is fully featured, offering tracking, scheduling, auto responders, responsiveness and dynamic tags. And it’s retina friendly.</p>
+<h5><a href="http://codecanyon.net/item/wordpress-social-stream/2201708" target="_blank" rel="noopener noreferrer">Wordpress Social Stream</a></h5>
+<p>WSS combines all your social network interactions into a single network stream, great for your blog. It supports, 15 social networks including Twitter, Facebook, Google+, Instagram, Pinterest, Tumblr, and about 60 feed options. It’s fully customisable and well documented.</p>
+<h5><a href="http://codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703" target="_blank" rel="noopener noreferrer">Ubermenu</a></h5>
+<p>Ubermenu 2.0, is not the biggest of the mega menu’s but its definitely the smartest and most flexible. It’s user-friendly, customisable and responsive. Works out of the box in Wordpress 3, light and powerful enough for creating highly customisable menu configurations.</p>
+<p>There you go. My top 5 CodeCanyon Plugins that come highly recommended. Tinker around.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
